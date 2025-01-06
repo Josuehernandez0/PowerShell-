@@ -1,2 +1,1 @@
 # PowerShell
-'Get Process CPU'
